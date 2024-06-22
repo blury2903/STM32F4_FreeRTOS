@@ -1,0 +1,10 @@
+../Core/Src/main.c:93:5:main	9
+../Core/Src/main.c:174:6:SystemClock_Config	3
+../Core/Src/main.c:222:13:MX_RTC_Init	2
+../Core/Src/main.c:257:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:290:13:MX_GPIO_Init	1
+../Core/Src/main.c:429:6:rtc_report_callback	1
+../Core/Src/main.c:434:6:led_effect_callback	5
+../Core/Src/main.c:456:6:HAL_UART_RxCpltCallback	4
+../Core/Src/main.c:499:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:516:6:Error_Handler	1
